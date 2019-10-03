@@ -1,0 +1,2 @@
+# Bluetooth-Controlled-Robot-Using-Arduino
+Arduino based project.  Here i have used Bluetooth module (HC-05) in combination with Arduino to control the movement of the robotic car. The commands to the Arduino are transferred from an Android mobile via Bluetooth.  The Android app on the mobile connects with the Bluetooth network, and then when a button is pressed on the screen of the app, the corresponding command is sent over the network to Arduino. Then Arduino intercepts the command and performs the designated action as per the code.
